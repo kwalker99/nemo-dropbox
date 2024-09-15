@@ -5,6 +5,6 @@ appindicator1 is no longer available as a package on later builds of Ubuntu and 
 
 Provided here for anyone who has been frustrated by this not being resolved.
 
-Just install doenload and install as per normal with dpkg:
+Just install download and install as per normal with dpkg:
 
 sudo dpkg -i nemo-dropbox_4.6.0-appindicator3-1.deb
