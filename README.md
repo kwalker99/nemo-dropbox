@@ -1,5 +1,5 @@
 # nemo-dropbox
-Updated nemo-dropbox debian package for Ubuntu 24.04 without the broken appindicator1 dependancy.
+Updated nemo-dropbox debian package for Ubuntu 24.04 without the broken libappindicator1 dependency.
 
 appindicator1 is no longer available as a package on later builds of Ubuntu and has been replaced by libayatana-appindicator3-1, this works perfectly with nemo-dropbox and the deb just needed a dependancy tweek.
 
